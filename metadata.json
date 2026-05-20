@@ -1,0 +1,6 @@
+{
+  "name": "마켓 모도모도",
+  "description": "우리 동네 소상공인과 이웃을 잇는 따뜻한 온기 가득 로컬 통합 커머스 플랫폼",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
